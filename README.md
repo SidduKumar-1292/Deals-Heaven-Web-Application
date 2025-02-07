@@ -23,6 +23,6 @@ This project contains:
 
 ### **1️⃣ Clone the repository**
 ```bash
-git clone https://github.com/Venkat1393/Deals-Heaven-Web-Application.git
+git clone https://github.com/SidduKumar-1292/Deals-Heaven-Web-Application.git
 cd Deals Heaven Web Application
 
