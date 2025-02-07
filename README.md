@@ -50,18 +50,13 @@ git clone https://github.com/SidduKumar-1292/dealsheaven-webapp.git
 cd dealsheaven-webapp
 ```
 
-### **2️⃣ Install Dependencies**
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
 ## 🔄 **Running the Async Scraper**
 To scrape data and save it to a CSV file:
 ```bash
-cd scraper
-python async_scraper.py
+cd Scraper
+python Hunter.py
 ```
 
 ---
