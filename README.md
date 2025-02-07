@@ -47,7 +47,7 @@ dealsheaven-webapp/
 ### **1️⃣ Clone the Repository**
 ```bash
 git clone https://github.com/SidduKumar-1292/dealsheaven-webapp.git
-cd dealsheaven-webapp
+cd Deals-Heaven-Web-Application
 ```
 
 ---
